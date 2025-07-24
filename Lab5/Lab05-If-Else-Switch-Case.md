@@ -1,3 +1,5 @@
+````cpp``
+
 #include<stdio.h>
 int main() {
     int score = 0;
@@ -18,3 +20,4 @@ int main() {
 return 0;
 
 }
+````cpp``
