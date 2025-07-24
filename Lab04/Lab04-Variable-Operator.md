@@ -1,3 +1,5 @@
+
+```c++
 #include <stdio.h>
 
 int main()
@@ -18,3 +20,4 @@ int main()
     printf("Salary = U$ %.2f\n", Salary * workinghrs);
     return 0;
 }
+```
